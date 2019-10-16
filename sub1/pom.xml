@@ -80,7 +80,7 @@
 <dependency><groupId>com.jayway.jsonpath</groupId><artifactId>json-path</artifactId><version>2.2.0</version></dependency>
 <dependency><groupId>com.lowagie</groupId><artifactId>itext</artifactId><version>2.1.7</version></dependency>
 <dependency><groupId>com.lowagie</groupId><artifactId>itext-rtf</artifactId><version>2.1.7</version></dependency>
-<dependency><groupId>com.nimbusds</groupId><artifactId>nimbus-jose-jwt</artifactId><version>4.39.2</version></dependency>
+<dependency><groupId>com.nimbusds</groupId><artifactId>nimbus-jose-jwt</artifactId><version>7.9</version></dependency>
 <dependency><groupId>com.nimbusds</groupId><artifactId>oauth2-oidc-sdk</artifactId><version>5.30</version></dependency>
 <dependency><groupId>com.okta.jwt</groupId><artifactId>okta-jwt-verifier</artifactId><version>0.2.0</version></dependency>
 <dependency><groupId>com.papertrail</groupId><artifactId>profiler</artifactId><version>1.0.2</version></dependency>
