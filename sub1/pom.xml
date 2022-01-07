@@ -71,7 +71,7 @@
 <dependency><groupId>com.google.http-client</groupId><artifactId>google-http-client-jackson</artifactId><version>1.23.0</version></dependency>
 <dependency><groupId>com.google.http-client</groupId><artifactId>google-http-client-jackson2</artifactId><version>1.23.0</version></dependency>
 <dependency><groupId>com.google.oauth-client</groupId><artifactId>google-oauth-client</artifactId><version>1.23.0</version></dependency>
-<dependency><groupId>com.google.protobuf</groupId><artifactId>protobuf-java</artifactId><version>3.5.1</version></dependency>
+<dependency><groupId>com.google.protobuf</groupId><artifactId>protobuf-java</artifactId><version>3.16.1</version></dependency>
 <dependency><groupId>com.google.protobuf</groupId><artifactId>protobuf-java-util</artifactId><version>3.5.1</version></dependency>
 <dependency><groupId>com.h2database</groupId><artifactId>h2</artifactId><version>1.4.196</version></dependency>
 <dependency><groupId>com.ibm.jbatch</groupId><artifactId>com.ibm.jbatch-tck-spi</artifactId><version>1.0</version></dependency>
