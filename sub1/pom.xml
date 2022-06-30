@@ -75,7 +75,7 @@
 <dependency><groupId>com.google.protobuf</groupId><artifactId>protobuf-java-util</artifactId><version>3.5.1</version></dependency>
 <dependency><groupId>com.h2database</groupId><artifactId>h2</artifactId><version>1.4.196</version></dependency>
 <dependency><groupId>com.ibm.jbatch</groupId><artifactId>com.ibm.jbatch-tck-spi</artifactId><version>1.0</version></dependency>
-<dependency><groupId>com.itextpdf</groupId><artifactId>itextpdf</artifactId><version>5.1.2</version></dependency>
+<dependency><groupId>com.itextpdf</groupId><artifactId>itextpdf</artifactId><version>5.5.12</version></dependency>
 <dependency><groupId>com.itextpdf.tool</groupId><artifactId>xmlworker</artifactId><version>1.1.0</version></dependency>
 <dependency><groupId>com.jayway.jsonpath</groupId><artifactId>json-path</artifactId><version>2.2.0</version></dependency>
 <dependency><groupId>com.lowagie</groupId><artifactId>itext</artifactId><version>2.1.7</version></dependency>
