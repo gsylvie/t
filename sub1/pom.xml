@@ -235,7 +235,7 @@
 <dependency><groupId>org.codehaus.plexus</groupId><artifactId>plexus-interactivity-api</artifactId><version>1.0-alpha-4</version></dependency>
 <dependency><groupId>org.codehaus.plexus</groupId><artifactId>plexus-interpolation</artifactId><version>1.11</version></dependency>
 <dependency><groupId>org.codehaus.plexus</groupId><artifactId>plexus-io</artifactId><version>2.0.4</version></dependency>
-<dependency><groupId>org.codehaus.plexus</groupId><artifactId>plexus-utils</artifactId><version>1.5.15</version></dependency>
+<dependency><groupId>org.codehaus.plexus</groupId><artifactId>plexus-utils</artifactId><version>3.0.16</version></dependency>
 <dependency><groupId>org.codehaus.plexus</groupId><artifactId>plexus-velocity</artifactId><version>1.1.7</version></dependency>
 <dependency><groupId>org.eclipse.aether</groupId><artifactId>aether-api</artifactId><version>1.0.2.v20150114</version></dependency>
 <dependency><groupId>org.eclipse.aether</groupId><artifactId>aether-impl</artifactId><version>1.0.2.v20150114</version></dependency>
