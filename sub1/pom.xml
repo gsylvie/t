@@ -298,7 +298,7 @@
 <dependency><groupId>org.objenesis</groupId><artifactId>objenesis</artifactId><version>2.1</version></dependency>
 <dependency><groupId>org.ow2.asm</groupId><artifactId>asm</artifactId><version>5.0.3</version></dependency>
 <dependency><groupId>org.ow2.asm</groupId><artifactId>asm-debug-all</artifactId><version>5.2</version></dependency>
-<dependency><groupId>org.postgresql</groupId><artifactId>postgresql</artifactId><version>9.4.1212</version></dependency>
+<dependency><groupId>org.postgresql</groupId><artifactId>postgresql</artifactId><version>42.3.7</version></dependency>
 <dependency><groupId>org.skyscreamer</groupId><artifactId>jsonassert</artifactId><version>1.4.0</version></dependency>
 <dependency><groupId>org.slf4j</groupId><artifactId>jcl-over-slf4j</artifactId><version>1.5.6</version></dependency>
 <dependency><groupId>org.slf4j</groupId><artifactId>jul-to-slf4j</artifactId><version>1.7.25</version></dependency>
