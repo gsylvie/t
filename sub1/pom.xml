@@ -327,7 +327,7 @@
 <dependency><groupId>org.springframework</groupId><artifactId>spring-test</artifactId><version>4.3.11.RELEASE</version></dependency>
 <dependency><groupId>org.springframework</groupId><artifactId>spring-tx</artifactId><version>4.3.11.RELEASE</version></dependency>
 <dependency><groupId>org.springframework</groupId><artifactId>spring-web</artifactId><version>4.3.11.RELEASE</version></dependency>
-<dependency><groupId>org.springframework</groupId><artifactId>spring-webmvc</artifactId><version>4.3.11.RELEASE</version></dependency>
+<dependency><groupId>org.springframework</groupId><artifactId>spring-webmvc</artifactId><version>5.2.20.RELEASE</version></dependency>
 <dependency><groupId>org.springframework.batch</groupId><artifactId>spring-batch-core</artifactId><version>3.0.8.RELEASE</version></dependency>
 <dependency><groupId>org.springframework.batch</groupId><artifactId>spring-batch-infrastructure</artifactId><version>3.0.8.RELEASE</version></dependency>
 <dependency><groupId>org.springframework.batch</groupId><artifactId>spring-batch-test</artifactId><version>3.0.8.RELEASE</version></dependency>
